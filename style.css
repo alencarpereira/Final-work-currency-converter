@@ -4,6 +4,12 @@
     box-sizing: border-box;
     font-family: 'roboto', sans-serif;
 }
+H1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px auto;
+}
 
 body {
     background-color: #8a51fc;
