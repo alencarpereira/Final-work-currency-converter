@@ -10,7 +10,7 @@ function convertValues() {
     const currencyValueConvert = document.querySelector(".currency-value");
 
    console.log(moneyToConvert.value)
-//console.log(currencySelect.value)                                                                         
+   //console.log(currencySelect.value)                                                                         
     const dolarToday = 5.2;
     const euroToday = 6.2;
     const libraToday = 7.2;
